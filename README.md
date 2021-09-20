@@ -14,4 +14,4 @@ Swing app ATM consists of:
 
 Main goal
 --
-Main goal was to connect more classes using **static**, **inheritance*.
+Main goal was to connect more classes using **static**, **inheritance**.
