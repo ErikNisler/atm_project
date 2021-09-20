@@ -11,7 +11,7 @@ Swing app ATM consists of:
   - Show transaction history
   - Save transactions to file
 
---
+
 Main goal
 --
 Main goal was to connect more classes using **static**,
