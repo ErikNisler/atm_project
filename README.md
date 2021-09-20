@@ -1,4 +1,4 @@
-ATM project // Swing app
+ATM project
 
 Intro
 --
